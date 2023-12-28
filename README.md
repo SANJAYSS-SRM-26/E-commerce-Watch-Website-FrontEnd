@@ -7,6 +7,11 @@ CSS: Styling and visual presentation.
 JavaScript: Interactive elements and functionality.
 
 # Preview:
+![Portfolio](https://github.com/SANJAYSS-SRM-26/E-commerce-Watch-Website-FrontEnd/blob/main/Preview1.png)
+
+
+![Portfolio](https://github.com/SANJAYSS-SRM-26/E-commerce-Watch-Website-FrontEnd/blob/main/Preview2.png)
+
 
 # How to Use
 Clone the repository: git clone https://github.com/your-username/ecommerce-frontend.git
